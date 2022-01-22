@@ -8,7 +8,7 @@
 |F - 교환|1039|||
 |G - 수 찾기|1920|:heavy_check_mark:||
 |H - N-Queen|9663||
-|I - 암호 만들기|1759|:heavy_check_mark:||
+|I - 암호 만들기|1759|:heavy_check_mark:|:heavy_check_mark:|
 |J - 스도쿠|2580|||
 |K - 단어수학|1339|||
 |L - 치킨배달|15686|||
