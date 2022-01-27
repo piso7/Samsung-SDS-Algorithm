@@ -2,7 +2,7 @@
 |------|:------:|:------:|:------:|
 |A - 분수합|[1735](https://www.acmicpc.net/problem/1735)|||
 |B - 최대공약수 하나 빼기|[14476](https://www.acmicpc.net/problem/14476)|:heavy_check_mark:||
-|C - 캔디 분배|[3955](https://www.acmicpc.net/problem/3955)||
+|C - 캔디 분배|[3955](https://www.acmicpc.net/problem/3955)|:heavy_check_mark:||
 |D - 에라토스테네스의 체|[2960](https://www.acmicpc.net/problem/2960)|||
 |E - 골드바흐의 추측|[6588](https://www.acmicpc.net/problem/6588)|||
 |F - 소수의 연속합|[1644](https://www.acmicpc.net/problem/1644)|||
