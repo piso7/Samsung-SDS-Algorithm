@@ -1,10 +1,9 @@
 |문제명|백준번호|강사풀이|해결 및 복습|
 |------|:------:|:------:|:------:|
-|A - 단절점|[11266](https://www.acmicpc.net/problem/11266)|||
-|B - 최단경로|[1753](https://www.acmicpc.net/problem/1753)|||
-|C - 타임머신|[11657](https://www.acmicpc.net/problem/11657)||
-|D - 플로이드|[11404](https://www.acmicpc.net/problem/11404)|||
-|E - 단절선|[11400](https://www.acmicpc.net/problem/11400)|||
-|F - 할로윈 묘지|[3860](https://www.acmicpc.net/problem/3860)|||
-|G - 거의 최단경로|[5719](https://www.acmicpc.net/problem/5719)|||
-|H - K번째 최단경로 찾기|[1854](https://www.acmicpc.net/problem/1854)||
+|A - 정수 삼각형|[1932](https://www.acmicpc.net/problem/1932)|||
+|B - 구간 합 구하기 4|[11659](https://www.acmicpc.net/problem/11659)|||
+|C - 구간 합 구하기 5|[11660](https://www.acmicpc.net/problem/11660)|||
+|D - 계단 오르기|[2579](https://www.acmicpc.net/problem/2579)|||
+|E - 가장 큰 정사각형|[1915](https://www.acmicpc.net/problem/1915)|||
+|F - 행렬 곱셈 순서|[11049](https://www.acmicpc.net/problem/11049)|||
+|G - 가장 긴 증가하는 부분 수열 5|[14003](https://www.acmicpc.net/problem/14003)|||
