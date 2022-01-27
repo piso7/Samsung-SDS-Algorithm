@@ -1,0 +1,59 @@
+※ 저는 선비형 개발자입니다. 실전형 개발자보다는 이론형 학구파에 가깝습니다! 다음 자료는 학구파의 입장에서 쓴 내용입니다.
+저도 비전공자였고(무려 국어국문학과!) 알고리즘을 공부하는 사람의 입장으로서, 그리고 자바 유저로서 다음 자료들(사이트)에 도움을 많이 받았었습니다.
+위부터 우선순위가 높습니다.
+알고리즘 학습에 도움이 되는 자료들
+종만북. 저는 지금도 이 책을 공부하였고, 3번 이상 읽었습니다.
+
+이 책에서 다루지 않은 알고리즘이 대회나 시험문제로 출제된 적은 없습니다. 그만큼 양이 많고 방대하고 어렵지만, 포기하지 않고 읽으면 정말 감각이 트여요
+DP와 최적화가 이 책의 핵심이라고 생각합니다
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=21089176
+로버트 세지윅, 알고리즘
+
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=176319688
+코세라에 https://www.coursera.org/learn/algorithms-part1 프린스턴 교수님인 로버트 세지윅(무려 KMP의 K인 크누스 교수의 제자!)의 저자 강의가 있어요
+영어 강의이지만, 자막이 있고, 어차피 개념 위주의 강의라 다 이해가 됩니다.
+코딩 인터뷰 완전 분석
+
+면접 문제 스타일이에요. 면접 화이트보드 코딩에 유리합니다.
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=115116545
+코딩 면접을 볼 때는 한번 꼭 읽어보세요
+라이의 블로그
+
+있을 거는 다 있는 라이의 블로그(라이는 연세대학교 최적화 대학원 다니실 거예요)
+https://m.blog.naver.com/kks227?categoryNo=292
+코멘 교수의 CLRS, introduction to algorithm
+
+저도 돌고 돌아서 결국 이책 보는 거 같아요
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=43636357
+어느 정도 이해 되면 보세요
+크누스 교수의 Concrete Mathmatics
+
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=140702246
+수학에 특화되어 있지만, 난이도가 매우 높습니다.
+그 외 문제풀이에 도움이 되는 사이트
+정올
+
+정올이 좋은 점은 반례를 준다는 겁니다. 백준은 반례를 안주는 게 단점이에요.
+http://jungol.co.kr/
+코드포스(코드포시스?)
+
+나중에는 여기 이 사이트로 고수들이 수렴하게 되어 있습니다.
+https://codeforces.com/
+프로젝트 오일러
+
+수학 문제만 많이 있습니다. 물론 요즘은 백준이 수학문제가 되게 많습니다.
+https://euler.synap.co.kr/prob_list.php
+파이썬 유저에게 좋은 알고리즘 책이 나왔어요!
+동빈북
+
+삼성 취업을 위한 필수 서적
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=247882118
+삼성 코딩 테스트 스타일의 빡구현이 많이 있습니다
+상길북
+
+저는 이제 빡구현을 공부하진 않으므로 상길북이 더 좋습니다
+https://www.aladin.co.kr/m/mproduct.aspx?ItemId=245495826
+
+위의 자료는 제가 1독 이상했거나(Concrete Mathmatics 제외), 사용해본 것들입니다.
+제가 모르는 자료도 많고, 저는 아무래도 학구파니까 문제풀이보다는 이론에 치우쳐요.
+
