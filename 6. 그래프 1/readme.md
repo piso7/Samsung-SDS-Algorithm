@@ -1,7 +1,7 @@
 |문제명|백준번호|강사풀이|해결 및 복습|
 |------|:------:|:------:|:------:|
 |A - 집합의 표현|[1717](https://www.acmicpc.net/problem/1717)|:heavy_check_mark:|:heavy_check_mark:|
-|B - 줄 세우기|[2252](https://www.acmicpc.net/problem/2252)|:heavy_check_mark:||
+|B - 줄 세우기|[2252](https://www.acmicpc.net/problem/2252)|:heavy_check_mark:|:heavy_check_mark:|
 |C - 네트워크 연결|[1922](https://www.acmicpc.net/problem/1922)|:heavy_check_mark:|:heavy_check_mark:|
 |D - LCA 2|[11438](https://www.acmicpc.net/problem/11438)|:heavy_check_mark:||
 |E - 키순서|[2458](https://www.acmicpc.net/problem/2458)|||
