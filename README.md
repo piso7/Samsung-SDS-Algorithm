@@ -9,8 +9,8 @@ Backup repertoire created because the group disappears after the Crash Course pe
 
 |일정|일자|내용|일정|일자|내용|
 |------|-----|-------|------|-----|-------|
-|1주차|1/17|알고리즘 기초|2주차|1/24|그래프|
-|1주차|1/18|알고리즘 기초|2주차|1/25|그래프|
-|1주차|1/19|자료구조|2주차|1/26|동적계획법|
-|1주차|1/20|자료구조|2주차|1/27|동적계획법|
-|1주차|1/21|정수론, 조합론|2주차|1/28|동적계획법|
+|1주차|1/17|알고리즘 기초[Algorithm Fundamentals]|2주차|1/24|그래프[Graph]|
+|1주차|1/18|알고리즘 기초[Algorithm Fundamentals]|2주차|1/25|그래프[Graph]|
+|1주차|1/19|자료구조[Data structure]|2주차|1/26|동적계획법[DP]|
+|1주차|1/20|자료구조[Data structure]|2주차|1/27|동적계획법[DP]|
+|1주차|1/21|정수론, 조합론[Number theory, Combinatorics]|2주차|1/28|동적계획법[DP]|
