@@ -3,9 +3,9 @@
 총 10일, 09:00 ~ 18:00  
 특강 기간 이후 그룹이 사라지기 때문에 만든 백업 레퍼지토리
 
-Special Algorithms Lecture on University Student, Samsung SDS, 2022 Winter
-10 days in total, 09:00 to 18:00
-Backup repertoire created because the group disappears after the Crash Course period
+Special Algorithms Lecture on University Student, Samsung SDS, 2022 Winter  
+10 days in total, 09:00 to 18:00  
+Backup repertoire created because the group disappears after the Crash Course period  
 
 |일정|일자|내용|일정|일자|내용|
 |------|-----|-------|------|-----|-------|
