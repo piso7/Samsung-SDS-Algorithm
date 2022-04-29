@@ -1,8 +1,8 @@
-|문제명|백준번호|강사풀이|해결 및 복습|
-|------|:------:|:------:|:------:|
-|A - 스택|[10828](https://www.acmicpc.net/problem/10828)|||
-|B - 큐|[10845](https://www.acmicpc.net/problem/10845)|||
-|C - 트리 순회|[1991](https://www.acmicpc.net/problem/1991)||
+|문제명|백준번호|강사풀이|해결 및 복습(Java)|해결 및 복습(Python)|
+|------|:------:|:------:|:------:|:------:|
+|A - 스택|[10828](https://www.acmicpc.net/problem/10828)||||
+|B - 큐|[10845](https://www.acmicpc.net/problem/10845)||||
+|C - 트리 순회|[1991](https://www.acmicpc.net/problem/1991)|||:heavy_check_mark:|
 |D - 구간 합 구하기|[2042](https://www.acmicpc.net/problem/2042)|||
 |E - 괄호의 값|[2504](https://www.acmicpc.net/problem/2504)|||
 |F - 트리인가?|[6416](https://www.acmicpc.net/problem/6416)|||
