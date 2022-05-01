@@ -2,7 +2,7 @@
 |------|:------:|:------:|:------:|:------:|
 |A - 스택|[10828](https://www.acmicpc.net/problem/10828)||||
 |B - 큐|[10845](https://www.acmicpc.net/problem/10845)||||
-|C - 트리 순회|[1991](https://www.acmicpc.net/problem/1991)|||:heavy_check_mark:|
+|C - 트리 순회|[1991](https://www.acmicpc.net/problem/1991)|||[:heavy_check_mark:](https://github.com/piso7/Samsung-SDS-Algorithm/blob/main/2.%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/%ED%95%B4%EA%B2%B0%EC%BD%94%EB%93%9C(Python)/p1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C.py)|
 |D - 구간 합 구하기|[2042](https://www.acmicpc.net/problem/2042)|||
 |E - 괄호의 값|[2504](https://www.acmicpc.net/problem/2504)|||
 |F - 트리인가?|[6416](https://www.acmicpc.net/problem/6416)|||
